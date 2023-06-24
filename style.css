@@ -1,0 +1,149 @@
+/* START  navigation module CSS here   */
+.navbar{
+    
+    background-image:url("images/bgs.jpg");
+    margin-bottom: 20px;
+}
+.navbar-brand img{
+height: 2rem;
+margin-right:10px;
+position:relative;
+bottom:5px;
+
+}
+.navbar li{
+margin-right:10px;
+font-size: 20px;
+
+}
+
+/* END  navigation module CSS here   */
+
+/* START CAROUSEL MODULES CSS */
+#carousel img
+{
+    height:550px;
+          
+}
+
+/* END CAROUSEL MODULES CSS*/
+
+/* START THREE PHOTO MODULES CSS*/
+#threePhotoSection h3
+{
+margin-top:50px;
+margin-bottom:50px;
+}
+#threePhotoSection
+{
+    margin-bottom:30px;
+}
+.card{
+    background-image: url("images/ppp.jpeg")
+}
+
+
+/* END OF THREE PHOTO MODULES CSS*/
+
+/* START OF PARAGRAPH MODULES CSS*/
+#threePhotoSection img
+{
+    width:420px;
+    height:300px;
+    border-radius:50%;
+    masrgin:10px;
+}
+#threePhotoSection img:hover
+{
+    width:425px;
+    height:300px;
+    border-radius:20%;
+    opacity:0.7;
+}
+#threePhotoSection h3
+{
+margin-top:50px;
+margin-bottom:50px;
+}
+#threePhotoSection
+{
+    margin-bottom:30px;
+}
+.card{
+    background-image: url("images/ppp.jpeg")
+}
+
+/* END OF PARAGRAPH MODULES CSS*/
+
+/* START OF TABLE MODULE CSS*/
+#moreAboutUs h3 
+{
+    padding:25px;
+    padding-bottom:40px;
+    color:white;
+}
+
+#moreAboutUs  blockquote
+{
+    padding:55px;
+    
+}
+#moreAboutUs
+{
+    background-image: url("images/ppp.jpeg");
+    
+     background-width: 100%;
+    color:white;
+}
+
+
+/*-- Resources Section --*/
+
+/* END OF TABLE MODULE CSS*/
+
+/* START OF FORM MODULES CSS*/
+contact{
+     background-image: url("images/joker.jpg");
+    }
+
+/* END OF FORM MODULES CSS*/
+
+/* START OF BUTTON CSS*/
+
+<footer>
+        <div class="row justify-content-center">
+        
+        <div class="col-md-6 text-center">
+            <h3>Function Book</h3>
+                <p> At our core is a collection of design and development solutions
+                that represent everything your business needs to complete in the modern market place.</p>
+                <strong>Contact Info</strong>
+                <p>(888) 888-888<br> email@RPLTECHNO.com </p><hr >
+                    <h5>
+                    &copy;RPLTechno IT SERVICES PVT LTD.
+                    </h5>
+        </div>
+        </div> 
+    </footer>
+
+
+
+
+/* END OF BUTTON CSS*/
+
+ /* START OF FOOTER CSS*/
+ footer{
+    background-image: url("images/bgs.jpg");
+    color: white;
+    padding: 2rem 0 2rem;
+    margin-top: 1rem;
+}
+footer img{
+    height: 3rem;
+    margin: 1.5rem 0;
+}
+footer a{
+    color:white;
+}
+
+ /* END OF FOOTER CSS*/
